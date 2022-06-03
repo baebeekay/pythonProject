@@ -7,3 +7,8 @@ anagram.py  - The function “find_anagrams”. It accepts two strings, and dete
 calculator.py - Python calculator that can perform: addition, subtraction, division, multiplication and modulus operations.
 
 count.py - counts and returns the number of words in a given text.
+
+RockPaperScissors.py - The rock, paper, scissors game
+                        When the program is run, ask the user to pick an option between "R", "P" or "S"
+                        Uses the `choice` function from the inbuilt Python `random` module to make a choice for CPU player(computer).
+                        
